@@ -38,6 +38,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+//tambahan komen untuk percobaan sesuatu
 @Composable
 fun RegistrationScreen() {
     var firstName by rememberSaveable { mutableStateOf("") }
